@@ -1,0 +1,1 @@
+<?php printf($s = '<?php printf($s = %c%s%c, 39, $s, 39);', 39, $s, 39);
